@@ -6,8 +6,11 @@ Welcome to my GitHub profile! I'm **Dibyanshi Singh**, a Data Analyst and Develo
 
 ## 🌟 About Me
 💡 I enjoy diving into cutting-edge technologies, designing intelligent solutions, and creating impactful projects that make a difference.
+
 🔬 My passions lie at the intersection of Data Science, Machine Learning, Software Development, and Cloud Computing, with a focus on innovative problem-solving and real-world applications.
+
 🌱 Throughout my journey, I've worked on diverse projects, including a Resume Builder, Expense Tracker App, Weather Dashboard, and Covid-19 Unemployment Analysis, showcasing my commitment to leveraging AI and data for impactful insights.
+
 ⚡ Fun fact: I thrive on solving challenging problems and love exploring new ideas over a good coffee break! ☕✨
 
 ---
