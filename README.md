@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm **Dibyanshi Singh**, a Data Analyst and Develo
 ---
 
 ## 🌟 About Me
-🎓 Master's Student in Information Technology and Management  
 💻 Passionate about Data Analytics, Visualization, and Software Development  
 🌍 Exploring the intersection of **Data Science**, **Cloud Computing**, and **Web Development**  
 📈 Always learning, growing, and building meaningful projects!
