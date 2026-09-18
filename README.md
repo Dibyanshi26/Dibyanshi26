@@ -4,14 +4,15 @@ Welcome to my GitHub profile! I'm **Dibyanshi Singh**, a Data Analyst and Develo
 
 ---
 
-## 🌟 About Me
-💡 I enjoy diving into cutting-edge technologies, designing intelligent solutions, and creating impactful projects that make a difference.
+# About Me
 
-🔬 My passions lie at the intersection of Data Science, Machine Learning, Software Development, and Cloud Computing, with a focus on innovative problem-solving and real-world applications.
+**GenAI Engineer.** I build agentic systems for domains where a wrong answer has consequences — and the eval infrastructure that proves they behave.
 
-🌱 Throughout my journey, I've worked on diverse projects, including a Resume Builder, Expense Tracker App, Weather Dashboard, and Covid-19 Unemployment Analysis, showcasing my commitment to leveraging AI and data for impactful insights.
+The thread across my work is shrinking the surface area the model is trusted with. A tool-calling loop over deterministic Python beats RAG-over-everything when the answer is a database read. An LLM that discovers a UI flow once and emits a typed, versioned artifact beats an LLM in the replay path forever. Every tool returns a fixed status — `ok`, `not_found`, `rejected`, `unavailable` — so the system can tell "no such account" apart from "I couldn't check," and the prompt mandates a specific action for each rather than leaving it to the model's judgment. Restricted categories route to an escalation call, not to the model's opinion about what it should say.
 
-⚡ Fun fact: I thrive on solving challenging problems and love exploring new ideas over a good coffee break! ☕✨
+Evals are where I spend most of my time, because agent behavior isn't knowable by inspection. Building a 36-case suite that gates every change taught me more than the agent did: that an adversarial prompt can defeat the mandated escalation *action* while the content guardrail still holds, and that those are different failures needing different fixes. That a safety case passing 3 of 5 identical reruns at `temperature=0` is flaky, not fixed — and a single green run would have shipped it. That `escalate()` could fail with nothing underneath it, the safety valve breaking alongside whatever it was meant to rescue, which only chaos testing surfaced. One case in that suite is still red on purpose; prompt-patching it green would have hidden a real distinction.
+
+Working in Python and TypeScript across LangGraph, OpenAI and Anthropic APIs, structured outputs with Pydantic, BM25 and hybrid retrieval, and Playwright for browser agents.
 
 ---
 
