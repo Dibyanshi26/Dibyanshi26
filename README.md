@@ -1,9 +1,3 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile! I'm **Dibyanshi Singh**, a Data Analyst and Developer passionate about leveraging data and technology to solve real-world problems. From building interactive dashboards to predictive models, I love crafting innovative solutions that make a difference.
-
----
-
 # About Me
 
 **GenAI Engineer.** I build agentic systems for domains where a wrong answer has consequences — and the eval infrastructure that proves they behave.
