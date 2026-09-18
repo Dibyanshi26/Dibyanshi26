@@ -17,6 +17,15 @@ Welcome to my GitHub profile! I'm **Dibyanshi Singh**, a Data Analyst and Develo
 
 ## 🚀 Tech Stack
 
+### AI & LLM Engineering
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-0F9D58?style=flat&logoColor=white)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-6E4AFF?style=flat&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
