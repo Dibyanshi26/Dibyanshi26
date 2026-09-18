@@ -89,25 +89,27 @@ Welcome to my GitHub profile! I'm **Dibyanshi Singh**, a Data Analyst and Develo
 
 ## 📂 Featured Projects
 
-### 1. [Resume Builder](https://github.com/Dibyanshi26/resume-builder)
-An interactive resume builder application with a sleek and user-friendly interface. Built using **React** and **Node.js**, it simplifies the process of creating and downloading resumes in professional templates.
+### 1. [Riverside Support Agent](https://github.com/Dibyanshi26/riverside-support-agent)
 
-### 2. [Expense Tracker App](https://github.com/Dibyanshi26/expense-tracker-app)
-A web application that helps users track and manage their daily expenses. This app was created using **HTML, CSS, JavaScript**, and integrated with a **MongoDB database**.
+A tool-calling support agent for a credit union member-service line, built around the question that actually matters in regulated domains: not whether an LLM *can* answer banking questions, but whether you can prove it reliably refuses the ones it shouldn't.
 
-### 3. [Weather Web App](https://github.com/Dibyanshi26/weather-webapp)
-A comprehensive weather dashboard that fetches real-time weather data from APIs. Features include:
-- Integrated CI/CD pipeline using **Azure DevOps**
-- Deployment on **Netlify**
-- Visualized weather trends with **D3.js**
+A 36-case eval suite gates every change, checking grounding, restricted-category enforcement, and escalation behavior. Chaos testing surfaced the sharpest bug — `escalate()` could itself fail with nothing underneath it, the safety valve failing alongside whatever it was meant to rescue. One adversarial case is left **failing on purpose**, because prompt-patching it green would have hidden a real distinction: the content guardrail holds, but the mandated escalation action doesn't.
 
-### 4. [Covid-19 Unemployment Analysis](https://github.com/Dibyanshi26/Covid-19-Unemployment-Analysis)
-Analyzed the economic impact of COVID-19 on unemployment rates using **Python**, **Streamlit**, and **Tableau**. The project includes data wrangling, visualization, and storytelling.
+**Python · OpenAI · BM25 retrieval · SQLite · Deterministic eval harness**
 
-### 5. [Spotify Feature Analysis](https://github.com/Dibyanshi26/spotify-feature-analysis)
-An exploratory analysis of Spotify's song features using **Python**, focusing on trends and insights into genres, popularity, and audio features.
+### 2. [AI Invoice Processing System](https://github.com/Dibyanshi26/ai-invoice-processing-agents)
 
-### 6. [Neo4j vs Relational Databases](https://github.com/Dibyanshi26/Neo4jvsRelationalDB)
+A five-agent LangGraph pipeline automating accounts payable end to end — ingestion across five file formats, validation against live inventory and vendor records, an approval decision with self-critique and confidence scoring, and payment execution. A separate fraud agent scores each invoice against eight pattern heuristics plus historical price deviation.
+
+**LangGraph · FastAPI · Next.js · Pydantic · SQLite**
+
+### 3. [AI Email Intelligence Agent](https://github.com/Dibyanshi26/ai-email-intelligence-agent)
+
+An n8n workflow that turns an inbox into structured operational data — Google Gemini classifies each incoming message by category, priority, and required action, extracts deadlines and a summary, and logs everything to Sheets as a searchable triage dashboard.
+
+**n8n · Google Gemini · Gmail API · Google Sheets · Prompt engineering**
+
+### 4. [Neo4j vs Relational Databases](https://github.com/Dibyanshi26/Neo4jvsRelationalDB)
 A comparative analysis of **graph databases** and **relational databases**, exploring performance differences using large datasets and **Google Scholar**.
 
 ---
